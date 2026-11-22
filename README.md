@@ -1,5 +1,12 @@
 # Hi, I'm Ayoub Mernissi 👋
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyoubMRN&label=PROFILE+VIEWS&color=00c8d4&style=flat-square" alt="Profile views">
+  <br>
+  <a href="https://www.linkedin.com/in/ayoub-mernissi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/mernissi.ayoub13"><img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
+</p>
+
 I'm a fourth-year engineering student at **ESIEE Paris**, specializing in **cybersecurity**. I practise through security labs and personal projects, alongside my coursework in systems, networks and programming.
 
 ## Looking for an internship
