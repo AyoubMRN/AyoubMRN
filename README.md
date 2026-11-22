@@ -1,10 +1,27 @@
-# Hi, I'm Ayoub Mernissi 👋
+<h1 align="center">Hi, I'm Ayoub Mernissi</h1>
+
+<p align="center"><b>Cybersecurity student &bull; SOC monitoring &bull; Detection engineering &bull; Pentest labs</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AyoubMRN&label=PROFILE+VIEWS&color=00c8d4&style=flat-square" alt="Profile views">
-  <br>
-  <a href="https://www.linkedin.com/in/ayoub-mernissi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/mernissi.ayoub13"><img src="https://img.shields.io/badge/TryHackMe-Top%205%25-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"></a>
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIP-2ea043?style=for-the-badge&labelColor=555" alt="Status: Open to internship"><br>
+  <img src="https://img.shields.io/badge/FROM-10%20MAY%202027-1f6feb?style=for-the-badge&labelColor=555" alt="From: 10 May 2027"><br>
+  <img src="https://img.shields.io/badge/DURATION-3--3.5%20MONTHS%20%2812%20WEEKS%20MIN%29-6e40c9?style=for-the-badge&labelColor=555" alt="Duration: 3-3.5 months (12 weeks min)"><br>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AyoubMRN&label=Profile+views&color=0e75b6&style=flat" alt="Profile views">
+  <a href="https://github.com/AyoubMRN?tab=followers"><img src="https://img.shields.io/github/followers/AyoubMRN?label=Followers&style=social" alt="Followers"></a>
+</p>
+
+<p align="center"><code>Logs → Sysmon / Wazuh → Detection rules → MITRE ATT&amp;CK → Validation</code></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SCHOOL-ESIEE%20PARIS%20--%204TH%20YEAR-0a66c2?style=for-the-badge&labelColor=555" alt="School: ESIEE Paris - 4th year"><br>
+  <img src="https://img.shields.io/badge/FOCUS-SOC%20%2F%20SIEM%20%2F%20DETECTION-1f6feb?style=for-the-badge&labelColor=555" alt="Focus: SOC / SIEM / Detection"><br>
+  <img src="https://img.shields.io/badge/FLAGSHIP-HOME%20SOC%20LAB%20--%20WAZUH-d97706?style=for-the-badge&labelColor=555" alt="Flagship: Home SOC Lab - Wazuh"><br>
+  <img src="https://img.shields.io/badge/TESTS-46%20UNIT%20TESTS%20%2B%20GITHUB%20ACTIONS-2ea043?style=for-the-badge&labelColor=555" alt="Tests: 46 unit tests + GitHub Actions"><br>
+  <img src="https://img.shields.io/badge/TRYHACKME-TOP%205%25%20WORLDWIDE-b91c1c?style=for-the-badge&labelColor=555" alt="TryHackMe: Top 5% worldwide"><br>
+  <img src="https://img.shields.io/badge/IN%20PROGRESS-JR%20PENETRATION%20TESTER%20PATH-6e40c9?style=for-the-badge&labelColor=555" alt="In progress: Jr Penetration Tester path"><br>
 </p>
 
 I'm a fourth-year engineering student at **ESIEE Paris**, specializing in **cybersecurity**. I practise through security labs and personal projects, alongside my coursework in systems, networks and programming.
@@ -52,6 +69,10 @@ On PortSwigger Web Security Academy, I practise SQL injection and server-side vu
 - Fourth year at ESIEE Paris; ranked second in my class during my third year.
 - Exchange semester at the University of Bologna.
 
-## Contact
+## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ayoub-mernissi) · [TryHackMe](https://tryhackme.com/p/mernissi.ayoub13)
+<p>
+  <a href="https://www.linkedin.com/in/ayoub-mernissi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/mernissi.ayoub13"><img src="https://img.shields.io/badge/TRYHACKME-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="https://github.com/AyoubMRN"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
