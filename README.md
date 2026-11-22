@@ -40,10 +40,6 @@ I practise through [TryHackMe](https://tryhackme.com/p/mernissi.ayoub13) labs an
 
 On PortSwigger Web Security Academy, I practise SQL injection and server-side vulnerability labs.
 
-## TRACS 2026
-
-Team captain of **FullMetal Hack'imist** for [TRACS 2026](https://tracs.viarezo.fr/). The tournament is scheduled for **5 December 2026** at CentraleSupélec and is co-organized by the **DGSE and ViaRézo**.
-
 ## Education
 
 - Fourth year at ESIEE Paris; ranked second in my class during my third year.
