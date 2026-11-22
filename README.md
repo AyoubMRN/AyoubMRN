@@ -22,9 +22,13 @@ An **ongoing personal project** that I continue to extend with new scenarios, de
 
 The published V2 is a documented milestone; the lab remains in continuous development.
 
-### Medical imaging AI project
+### [Breast Cancer Detection and Risk Prediction](https://github.com/AyoubMRN/breast-cancer-detection-and-risk)
 
-Academic project with a team of six students: a prototype combining medical imaging and clinical data. I contributed to ultrasound image classification and model comparison.
+Academic project with a team of six students (ESIEE Paris): a web application that combines mammography and ultrasound detection with long-term breast cancer risk prediction, built with a Flask backend and three AI models. I worked on the risk prediction module (AsymMirai with a multimodal extension combining imaging and clinical data), an RSNA benchmark, and the ultrasound classifier together with a teammate.
+
+- **Responsible release:** before the repository was made public, it was reviewed for secrets, personal data and patient data; third-party licenses and model-weight provenance were checked, and weights whose redistribution rights were unclear were left out.
+- **Honest evaluation:** reported figures are traced to their source, limits are documented (for example, imaging models at chance level in the RSNA benchmark), and the project is clearly labelled a student prototype, not a medical device.
+- **Security awareness:** the README states that the Flask development server runs in debug mode with open CORS and must only be used locally.
 
 ## Tools and practice
 
